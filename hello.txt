@@ -6,5 +6,7 @@ Hello, this is Git-Demo from Bilibili ShangGuigu Git!
 Hello, this is Git-Demo from Bilibili ShangGuigu Git!
 Hello, this is Git-Demo from Bilibili ShangGuigu Git!
 Hello, this is Git-Demo from Bilibili ShangGuigu Git!
-Hello, this is Git-Demo from Bilibili ShangGuigu Git!
-Hello, this is Git-Demo from Bilibili ShangGuigu Git! add some to be merged text
+<<<<<<< HEAD
+=======
+Hello, this is Git-Demo from Bilibili ShangGuigu Git! master-add some to be merged text && hotfix-to fix some bugs
+>>>>>>> hotfix
